@@ -1,2 +1,5 @@
-.venv
-/models
+/.venv
+models/*
+
+!models/metadata/
+!models/metadata/.gitkeep

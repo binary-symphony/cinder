@@ -4,9 +4,7 @@
 
 
 import subprocess
-import os
 import time
-import keyboard
 import argparse
 import json
 from pathlib import Path

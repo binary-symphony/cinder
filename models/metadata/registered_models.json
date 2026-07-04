@@ -1,0 +1,19 @@
+{
+    "models": [
+        {
+            "name": "Qwable-9B-Claude-Fable-5",
+            "quant": "Q4_K_M",
+            "path": "/Qwable-9B-Claude-Fable-5-Q4_K_M.gguf"
+        },
+        {
+            "name": "Phi-4-Mini-Abliterated",
+            "quant": "Q4_K_M",
+            "path": "/Phi-4-Mini-Abliterated.Q4_K_M.gguf"
+        },
+        {
+            "name": "Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
+            "quant": "Q4_K_M",
+            "path": "/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive-Q4_K_M.gguf"
+        }
+    ]
+}
