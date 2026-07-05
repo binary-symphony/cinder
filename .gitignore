@@ -3,5 +3,5 @@ models/*
 
 /cinder.cmd
 
-!models/metadata/
 !models/metadata/.gitkeep
+models/metadata/
