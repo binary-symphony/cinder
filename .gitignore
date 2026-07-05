@@ -1,7 +1,7 @@
 /.venv
 models/*
 
-cinder.cmd
+/cinder.cmd
 
 !models/metadata/
 !models/metadata/.gitkeep
